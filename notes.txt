@@ -53,3 +53,4 @@ Der Befehl git reset --mixed HEAD~1 ist ein sicherer Mittelweg zwischen --soft u
 
 waxa  aan bartay maanta wax aanan hore uga baran Appka 
 
+Der Befehl git reset --hard HEAD~1 ist sehr mächtig und gefährlich, weil er den letzten Commit UND alle Änderungen unwiderruflich löscht.
