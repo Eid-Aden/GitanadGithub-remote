@@ -43,3 +43,5 @@ Every professional developer uses it.
 It’s essential if you want to work on real-world projects.
 
 will  lear  this  lesson  for a very  important  Recent!
+
+Der Befehl git reset --soft HEAD~1
