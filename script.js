@@ -130,3 +130,8 @@ function keyDown(e) {
     direction = 'DOWN';
   }
 }
+let numberCounter = 50;
+
+for (let i = 0; i < numberCounter; i++) {
+  console.log(i);
+}
