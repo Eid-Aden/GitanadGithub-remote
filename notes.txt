@@ -47,3 +47,6 @@ will  lear  this  lesson  for a very  important  Recent!
 Der Befehl: git reset --soft HEAD~1
 
 Der Befehl git reset --hard HEAD~1 ist sehr mächtig und gefährlich, weil er den letzten Commit UND alle Änderungen unwiderruflich löscht.
+
+Der Befehl git reset --mixed HEAD~1 ist ein sicherer Mittelweg zwischen --soft und --hard. Er macht den letzten Commit rückgängig, behält aber deine Änderungen im Arbeitsverzeichnis (Editor), sodass du weiterarbeiten kannst.
+
